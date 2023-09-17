@@ -1,6 +1,6 @@
 # snickerdoodle
 
-Applying semantics-preserving transformations to Verilog code.
+Applying semantics-preserving transformations to Verilog code!
 
 ## Dependencies
 You'll need [Pyverilog](https://github.com/PyHDI/Pyverilog) and its dependencies.
